@@ -166,5 +166,5 @@
 
   - `static std::string getSuitPath(CardSuitType suit)`：根据花色获取花色图片的路径。
   - `static std::string getNumberPath(CardFaceType face, CardSuitType suit, bool isBig)`：根据数字、花色和尺寸获取数字图片的路径。
-  - `static bool isFaceDiffOne(CardFaceType f1, CardFaceType f2)`：判断两张卡片的数字是否相差 1。
+  
 
